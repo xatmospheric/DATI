@@ -1,7 +1,7 @@
 # Dynamic Actionable Threat Intelligence (DATI)
 
 With the rapid proliferation of emerging CTI, OSINT/HUMINT, EDR, SIEM, and other cyber intel solutions, I began brainstorming about an approach to aggregate
-the myriad of resources available to current (or aspiring) cyber analysts. 
+the myriad of resources available for the cyber intel community. 
 
 The goal is to construct a framework for meaningful analytical-based symbiosis, enhancing the 
 diversity of actionable intelligence. This can be thought of as an approach to reducing laborious processes, such as manually correlating logs against 
